@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=900&height=50&lines=%F0%9F%92%BB+Jezrael+G%C3%B3mez+%7C+Ingeniero+en+TICs;%F0%9F%A7%AD+Especialista+en+Fundamentos+de+Inteligencia+Artificial;%F0%9F%9A%80+Desarrollo+de+Soluciones+de+Software+y+ML" alt="Banner Elegante" />
 </p>
 
-<div align="center">
-  <img src="https://i.imgur.com/vHqjD2z.gif" width="100%">
-</div>
-
 <p align="center">
   <a href="https://lnkd.in/eH6d7yHz" target="_blank">
     <img src="https://img.shields.io/badge/CERTIFICADO%20IBM%20AI%20Fundamentals-0F172A?style=flat&logo=ibm&logoColor=10B981&labelColor=0D1117&color=1A503C&link=https://lnkd.in/eH6d7yHz" alt="Certificado IBM AI Fundamentals - Link de Verificación" />
@@ -46,10 +42,6 @@
 
 ## 🧠 **ENFOQUE TÉCNICO: INTELIGENCIA ARTIFICIAL Y DATA**
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUV0b95n73n4oQ5L/giphy.gif" width="300" alt="Code analysis" />
-</div>
-
 ### 📚 **[<span style="color:#2563EB;">Estrategia de Aprendizaje Funcional</span>]**
 
 | 🚀 **Fase** | **Objetivo Clave** | ⚙️ **Herramientas/Habilidades** |
@@ -64,7 +56,8 @@
 ## 🛠️ **STACK TÉCNICO Y HERRAMIENTAS**
 
 <div align="center">
-  ### **[<span style="color:#059669;">Lenguajes y Core Tech</span>]**
+  
+### **[<span style="color:#059669;">Lenguajes y Core Tech</span>]**
 <p>
   <img src="https://skillicons.dev/icons?i=python,c,html,css,javascript,mysql&theme=dark" height="50"/>
 </p>
@@ -74,17 +67,31 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,linux&theme=dark" height="50"/>
 </p>
 
+### **[<span style="color:#059669;">Áreas de Interés Avanzado</span>]**
+<p>
+  <img src="https://img.shields.io/badge/Computer%20Vision-6366F1?style=flat&logo=opencv&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/NLP%20(Procesamiento%20Lenguaje%20Natural)-10B981?style=flat&logo=huggingface&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Cloud%20Computing%20(AWS%2FAzure)-F59E0B?style=flat&logo=amazonaws&logoColor=white&labelColor=0D1117" />
+</p>
 </div>
 
 ---
 
-## 📂 **[<span style="color:#2563EB;">PROYECTOS DESTACADOS</span>]**
+## 📂 **[<span style="color:#2563EB;">PROYECTOS Y REPOSITORIOS (Mi Trabajo)</span>]**
 
-| Título del Proyecto | Estado | Stack Principal | Descripción Funcional |
-|:---:|:---:|:---:|:---:|
-| **ML-Titanic-Predictor** | En Desarrollo 🚧 | Python, Pandas, Scikit-learn | Práctica de Preprocesamiento de Datos y Clasificación Binaria. |
-| **Data-Viz-TECNM** | Completado ✅ | Python, Matplotlib | Análisis exploratorio de datos de rendimiento académico (Ejemplo). |
-| **Futuro Proyecto AI** | Planificado 💡 | TensorFlow / Keras | Implementar una red neuronal simple para reconocimiento de imágenes (MNIST). |
+<div align="center">
+  > **[<span style="color:#059669;">Explora mi trabajo:</span>]** Los siguientes gráficos reflejan mis proyectos más activos y los lenguajes predominantes que utilizo.
+  
+  <br>
+
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jeztorres&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jeztorres&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=059669&text_color=C9D1D9"/>
+
+  <br>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeztorres&theme=tokyonight&hide_border=true&background=0D1117&stroke=2563EB&ring=059669&fire=F59E0B&currStreakLabel=FFFFFF"/>
+
+</div>
 
 ---
 
@@ -95,19 +102,11 @@
 | 💬 **Comunicación Técnica** | Capacidad para articular el estado y los resultados de un modelo de IA a diversas partes. |
 | 🧩 **Pensamiento Crítico** | Esencial para la validación de datos, selección de modelos y solución de fallos algorítmicos. |
 | 🧑‍🤝‍🧑 **Trabajo Colaborativo** | Experiencia en entornos de control de versiones y metodologías ágiles (enfoque académico). |
+| 📈 **Aprendizaje Continuo** | Adaptabilidad a nuevas librerías, marcos de trabajo y metodologías en el campo de la IA. |
 
 ---
 
-## 📊 **[<span style="color:#2563EB;">ACTIVIDAD EN GITHUB</span>]**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jeztorres&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=059669&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jeztorres&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB&text_color=C9D1D9"/>
-</div>
-
----
-
-## 🌐 **[<span style="color:#059669;">CONECTA CON JEZRAEL</span>]**
+## 🌐 **[<span style="color:#2563EB;">CONECTA CON JEZRAEL</span>]**
 
 <div align="center">
   <a href="mailto:jeztorres19@gmail.com">
@@ -124,9 +123,8 @@
 ---
 
 <div align="center">
-  <img src="https://i.imgur.com/vHqjD2z.gif" width="100%">
   
-  **<span style="color:#2563EB;">🌟 "El puente entre la Ingeniería y la Inteligencia Artificial se construye con perseverancia y código."</span>**
+  **<span style="color:#059669;">🌟 "El puente entre la Ingeniería y la Inteligencia Artificial se construye con perseverancia y código."</span>**
   
   <img src="https://komarev.com/ghpvc/?username=Jeztorres&style=flat&color=2563EB&labelColor=0D1117">
 </div>
