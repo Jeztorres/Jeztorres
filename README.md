@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=40&duration=3000&pause=1200&color=4F46E5&center=true&vCenter=true&width=800&height=100&lines=%F0%9F%91%8B+Hola%2C+soy+Jezrael+G%C3%B3mez;%F0%9F%92%BB+Ingeniero+en+TICs+%7C+AI+Explorer;%F0%9F%A7%AD+Desarrollo+de+Soluciones+Inteligentes;%F0%9F%9A%80+Futuro+Experto+en+Deep+Learning" alt="Banner Principal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=700&size=40&duration=4000&pause=1000&color=25C0CF&center=true&vCenter=true&width=850&height=100&lines=%F0%9F%A7%AD+AI+Engineer+in+Training+%7C+Jezrael+G%C3%B3mez;%F0%9F%92%BB+Ingeniero+en+TICs+%7C+Especialista+en+Python;%F0%9F%8E%AF+Focused+on+ML+%26+Deep+Learning+Fundamentals" alt="Banner Animado" />
 </p>
 
 <div align="center">
@@ -7,7 +7,9 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Certificado%3A%20IBM%20AI%20Fundamentals-0F172A?style=for-the-badge&logo=ibm&logoColor=10B981" />
+  <a href="https://lnkd.in/eH6d7yHz" target="_blank">
+    <img src="https://img.shields.io/badge/CERTIFICADO%20IBM%20AI%20Fundamentals-0F172A?style=for-the-badge&logo=ibm&logoColor=25C0CF" alt="Certificado IBM AI Fundamentals - Link de Verificación" />
+  </a>
   <img src="https://img.shields.io/badge/%F0%9F%93%AD%20Ubicaci%C3%B3n%3A%20Hidalgo%2C%20M%C3%A9xico-4F46E5?style=for-the-badge&labelColor=0F172A" />
   <img src="https://img.shields.io/badge/%F0%9F%8E%93%20Formaci%C3%B3n%3A%20TECNM%20Pachuca-10B981?style=for-the-badge&labelColor=0F172A" />
   <img src="https://img.shields.io/badge/%F0%9F%93%88%20Rol%3A%20Ingeniero%20en%20TICs-F59E0B?style=for-the-badge&labelColor=0F172A" />
@@ -15,24 +17,24 @@
 
 ---
 
-## 🌟 **Perfil Profesional: Jezrael Gómez**
+## 🚀 **Perfil Profesional: Jezrael Gómez**
 
 <table>
 <tr>
 <td width="50%">
 
-### 👨‍💻 **Resumen**
+### 👨‍💻 **Resumen Profesional**
 
 * **Título:** Ingeniero en Tecnologías de la Información (9° Semestre).
-* **Especialización:** Transicionando el *core* de TICs al campo de la **Inteligencia Artificial y Ciencia de Datos**.
-* **Objetivo:** Aplicar principios de ingeniería para construir sistemas robustos y escalables de Machine Learning.
-* **Estado:** Dedicado a la formación constante y al desarrollo de mi primer portafolio sólido en IA.
+* **Especialización:** Enfocado en la transición y aplicación del conocimiento de TICs al campo de la **Inteligencia Artificial y Ciencia de Datos**.
+* **Certificación Clave:** **IBM AI Fundamentals** ([Verificación aquí](https://lnkd.in/eH6d7yHz)).
+* **Objetivo:** Construir sistemas escalables y robustos utilizando Machine Learning y la ingeniería de software.
 
 </td>
 <td width="50%">
 
 ### 💡 **Filosofía y Visión**
-> *"Cada línea de código es una oportunidad de aprendizaje. Mi meta es combinar mi base de **Ingeniero en TICs** con el conocimiento de **IA** para resolver problemas complejos y eficientes. El futuro de la tecnología es inteligente, y estoy construyéndolo paso a paso."*
+> *"Como Ingeniero en TICs, busco la eficiencia. Mi meta es combinar mi base de ingeniería con la **Inteligencia Artificial** para desarrollar soluciones que marquen la diferencia, siempre enfocado en el aprendizaje constante y la aplicación práctica de Python."*
 
 **Foco:** **Python**, Fundamentos de **Machine Learning**, y **Estructuras de Datos** aplicadas.
 
@@ -42,16 +44,16 @@
 
 ---
 
-## 🧠 **Enfoque en Inteligencia Artificial (AI)**
+## 🧠 **Enfoque Técnico en Inteligencia Artificial (AI)**
 
 <div align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="Learning code" />
 </div>
 
-### 🏆 **Certificaciones y Habilidades Clave**
+### 📚 **Conocimientos y Áreas de Estudio**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%E2%9C%85%20IBM%20AI%20Fundamentals-10B981?style=for-the-badge&logo=ibm&logoColor=white&labelColor=0F172A" />
+  <img src="https://img.shields.io/badge/%E2%9C%85%20Python%20para%20Ciencia%20de%20Datos-10B981?style=for-the-badge&logo=python&logoColor=white&labelColor=0F172A" />
   <img src="https://img.shields.io/badge/ML%20Supervisado%20e%20No%20Supervisado-F59E0B?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0F172A" />
   <img src="https://img.shields.io/badge/Conceptos%20de%20Redes%20Neuronales-4F46E5?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0F172A" />
   <img src="https://img.shields.io/badge/An%C3%A1lisis%20y%20Visualizaci%C3%B3n%20de%20Datos-EF4444?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0F172A" />
@@ -68,12 +70,12 @@
   <img src="https://skillicons.dev/icons?i=python,html,css,javascript,mysql,c&theme=dark" height="55"/>
 </p>
 
-### **Herramientas de Data Science y Desarrollo**
+### **Herramientas de Desarrollo y Flujo de Trabajo**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,linux,docker&theme=dark" height="55"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,linux&theme=dark" height="55"/>
 </p>
 
-### **Áreas de Interés Avanzado (Próximos Pasos)**
+### **Áreas de Interés Avanzado**
 <p>
   <img src="https://img.shields.io/badge/Computer%20Vision-6366F1?style=flat-square&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/NLP%20(Procesamiento%20Lenguaje%20Natural)-10B981?style=flat-square&logo=huggingface&logoColor=white" />
@@ -87,35 +89,10 @@
 
 | **Habilidad** | **Relevancia para Ingeniería** |
 |:---:|:---:|
-| 💬 **Comunicación Técnica** | Capacidad para explicar conceptos complejos de IA y TICs a equipos no técnicos. |
-| 🧩 **Resolución de Problemas** | Enfoque lógico y estructurado para la depuración de código y diseño de algoritmos. |
-| 🧑‍🤝‍🧑 **Trabajo en Equipo** | Experiencia en proyectos universitarios y colaboraciones de código (Git/GitHub). |
-| 📈 **Mentalidad de Crecimiento** | Adaptabilidad y pasión por aprender nuevas librerías y marcos de trabajo de IA. |
-
----
-
-## 📂 **Estructura de Repositorios**
-
-Esta es la organización que sigo en mis proyectos para garantizar claridad y profesionalismo.
-
-| **Carpeta** | **Propósito** |
-|:---:|:---:|
-| `notebooks/` | Archivos de exploración (`.ipynb`) y análisis de datos. |
-| `src/` | Código fuente principal, *scripts* y módulos de Python. |
-| `data/` | Conjuntos de datos utilizados para entrenamiento y pruebas (si aplica). |
-| `models/` | Modelos entrenados (`.h5`, `.pkl`) y archivos de configuración. |
-| `docs/` | Documentación técnica y reportes del proyecto. |
-
----
-
-## 🎯 **Próximos Grandes Objetivos**
-
-| # | Objetivo | Estado | Impacto Profesional |
-|:---:|:---:|:---:|:---:|
-| 1 | **Proyecto End-to-End de ML** | Planificando 🏗️ | Demostrar el ciclo completo de vida de un modelo (limpieza hasta despliegue). |
-| 2 | **Certificación Python/ML Avanzada** | En Curso 📖 | Validar experticia técnica en el lenguaje base de la IA. |
-| 3 | **Primera Contribución Open Source** | Buscando Oportunidades 🤝 | Aprender sobre bases de código grandes y colaboración en la industria. |
-| 4 | **Estudio Profundo de Redes Neuronales** | Próximo Paso 💡 | Preparación para roles de Deep Learning y Visión Artificial. |
+| 💬 **Comunicación Técnica** | Capacidad para explicar conceptos de IA y TICs con claridad a diferentes audiencias. |
+| 🧩 **Resolución de Problemas** | Enfoque lógico y eficiente para el *troubleshooting* y diseño de algoritmos complejos. |
+| 🧑‍🤝‍🧑 **Trabajo Colaborativo** | Experiencia en proyectos grupales, manejando flujos de trabajo con Git/GitHub. |
+| 📈 **Aprendizaje Continuo** | Adaptabilidad a nuevas librerías, marcos de trabajo y metodologías en el campo de la IA. |
 
 ---
 
@@ -151,7 +128,7 @@ Esta es la organización que sigo en mis proyectos para garantizar claridad y pr
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
   
-  **🌟 "El futuro es automatizado. Mi código es mi contribución."**
+  **🌟 "Programación y Lógica: Los cimientos de la Ingeniería Inteligente."**
   
   <img src="https://komarev.com/ghpvc/?username=Jeztorres&style=for-the-badge&color=4F46E5&labelColor=0F172A">
 </div>
