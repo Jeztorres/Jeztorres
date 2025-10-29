@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/UBICACI%C3%93N%3A%20HIDALGO%2C%20M%C3%89XICO-2563EB?style=flat&logo=map&logoColor=FFFFFF&labelColor=0D1117" alt="Ubicación" />
-  <img src="https://img.shields.io/badge/FORMACI%C3%93N%3A%20TECNM%20PACHUCA-059669?style=flat&logo=readthedocs&logoColor=FFFFFF&labelColor=0D1117" alt="Formación" />
+  <img src="https://img.shields.io/badge/UBICACI%C3%93N%3A%20HIDALGO%2C%20M%C3%89XICO-2563EB?style=flat&logo=map&logoColor=FFFFFF&labelColor=0D1117" alt="Formación" />
   <img src="https://img.shields.io/badge/ROL%3A%20INGENIERO%20EN%20TICS-F59E0B?style=flat&logo=devpost&logoColor=FFFFFF&labelColor=0D1117" alt="Rol" />
 </p>
 
@@ -72,12 +71,16 @@ La siguiente lista detalla mis certificaciones técnicas más relevantes.
 
 ## 🧠 **ENFOQUE TÉCNICO: INTELIGENCIA ARTIFICIAL Y DATA**
 
-### 📚 **[<span style="color:#059669;">Estrategia de Aprendizaje Funcional</span>]**
+### 💡 **[<span style="color:#059669;">Compromiso y Crecimiento</span>]**
 
-| 🚀 **Fase** | **Objetivo Clave** | ⚙️ **Herramientas/Habilidades** |
-|:---:|:---:|:---:|
-| **Fundamentos** | Dominio de la lógica de programación y estructuras de datos. | Python POO, Algoritmos, Matemáticas para ML. |
-| **Data Science** | Limpieza, preprocesamiento y análisis exploratorio (EDA). | Pandas, NumPy, Matplotlib/Seaborn. |
+> **Actualmente me encuentro en la fase inicial de adquisición de estas habilidades clave, construyendo una base sólida desde cero.** Mi compromiso es absoluto; estoy siguiendo un plan estructurado y estoy dispuesto a invertir el tiempo necesario para dominar cada fase y convertirme en un profesional competente en el campo de la Inteligencia Artificial.
+
+### 📚 **[<span style="color:#2563EB;">Estrategia de Aprendizaje Funcional</span>]**
+
+| 🚀 **Fase de Estudio** | 🎯 **Objetivo Clave** | ⚙️ **Herramientas/Habilidades Clave** |
+|:----------------------|:------------------------------------|:--------------------------------------|
+| **Fundamentos** | Dominio de la lógica y estructuras de datos. | Python POO, Algoritmos, Matemáticas para ML. |
+| **Data Science** | Limpieza, preprocesamiento y Análisis Exploratorio (EDA). | Pandas, NumPy, Matplotlib/Seaborn. |
 | **Machine Learning** | Implementación y evaluación de modelos supervisados (clasificación/regresión). | Scikit-learn, Evaluación de métricas (Accuracy, F1, Recall). |
 | **Especialización** | Profundizar en redes neuronales y áreas específicas (CV/NLP). | TensorFlow, Keras, Open CV (Próximamente). |
 
