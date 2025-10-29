@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=900&height=50&lines=%F0%9F%92%BB+Jezrael+G%C3%B3mez+%7C+Ingeniero+en+TICs;%F0%9F%A7%AD+Especialista+en+Fundamentos+de+Inteligencia+Artificial;%F0%9F%9A%80+Desarrollo+de+Soluciones+de+Software+y+ML" alt="Banner Elegante" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=900&height=50&lines=%F0%9F%92%BB+Jezrael+G%C3%B3mez+%7C+Ingeniero+en+TICs;%F0%9F%A7%AD+Especialista+en+Fundamentos+de+Inteligencia+Artificial;%F0%9F%9A%80+Desarrollo+de+Soluciones+de+Software+y+ML" alt="Banner Formal" />
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 <td width="50%">
 
 ### 💡 **[<span style="color:#059669;">Visión y Metodología</span>]**
-> *"Mi formación como Ingeniero en TICs me proporciona una visión de sistemas. Busco un aprendizaje riguroso, combinando la teoría (algoritmos, estructuras de datos) con la práctica en **Python** para crear código limpio y modelos eficientes."*
+> *"Mi formación como Ingeniero en TICs me proporciona una visión de sistemas robustos. Combino la teoría (algoritmos, estructuras de datos) con la práctica en **Python** para crear código limpio y modelos eficientes, siempre enfocado en el aprendizaje continuo."*
 
 **Foco Actual:** Consolidar el stack **Python/Pandas/Scikit-learn** para proyectos de Machine Learning.
 
@@ -38,7 +38,7 @@
 
 ## 🏆 **[<span style="color:#2563EB;">ACREDITACIONES Y CERTIFICADOS CLAVE</span>]**
 
-Esta sección está diseñada para ser **escalable**. Simplemente añade más líneas de detalle cuando obtengas un nuevo certificado.
+La siguiente lista detalla mis certificaciones técnicas más relevantes.
 
 <details>
   <summary>
@@ -57,14 +57,14 @@ Esta sección está diseñada para ser **escalable**. Simplemente añade más l�
 
 <details>
   <summary>
-    <img src="https://img.shields.io/badge/PR%C3%93XIMO%20CERTIFICADO-PLANIFICADO-0D1117?style=for-the-badge&logo=coursera&logoColor=F59E0B&labelColor=0D1117&color=404040" alt="Placeholder para próximo certificado" />
+    <img src="https://img.shields.io/badge/PR%C3%93XIMO%20CERTIFICADO-PENDIENTE-0D1117?style=for-the-badge&logo=coursera&logoColor=F59E0B&labelColor=0D1117&color=404040" alt="Placeholder para próximo certificado" />
   </summary>
   <br>
   <ul>
-    <li>**Título:** [Pendiente de añadir, ej: Python Data Science Professional Certificate].</li>
-    <li>**Emisor:** [Pendiente de añadir, ej: Google/Coursera].</li>
-    <li>**Habilidades Validadas:** [Pendiente de añadir].</li>
-    <li>**Enlace de Verificación:** [Pendiente de añadir].</li>
+    <li>**Título:** Pendiente de registrar.</li>
+    <li>**Emisor:** Pendiente de registrar.</li>
+    <li>**Habilidades Validadas:** Pendiente de registrar.</li>
+    <li>**Enlace de Verificación:** Pendiente de registrar.</li>
   </ul>
 </details>
 
@@ -107,13 +107,19 @@ Esta sección está diseñada para ser **escalable**. Simplemente añade más l�
 
 ---
 
-## 📂 **[<span style="color:#059669;">PROYECTOS Y REPOSITORIOS (Mi Trabajo)</span>]**
+## 📂 **[<span style="color:#059669;">PROYECTOS Y REPOSITORIOS</span>]**
 
 <div align="center">
   
-  > **[<span style="color:#2563EB;">Explora mi trabajo:</span>]** Los siguientes gráficos reflejan mis proyectos más activos y los lenguajes predominantes que utilizo.
+  > **[<span style="color:#2563EB;">Explora mi trabajo:</span>]** Los siguientes gráficos reflejan mis contribuciones más activas y los lenguajes predominantes en mis proyectos.
   
   <br>
+  
+  <a href="https://github.com/Jeztorres?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/VER%20TODOS%20MIS%20REPOSITORIOS-2563EB?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Botón para ver todos los repositorios" />
+  </a>
+  
+  <br><br>
 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jeztorres&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=059669&text_color=C9D1D9"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jeztorres&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=059669&icon_color=2563EB&text_color=C9D1D9"/>
