@@ -1,32 +1,26 @@
-<div align="center">
+<h1 align="center">👋 ¡Hola, soy Jezrael Gómez!</h1>
 
-# 👋 ¡Hola, soy Jezrael Gómez!
-
-### 🤖 Especialista en Automatización Inteligente y Agentes de IA
-
-Apasionado por la creación de **flujos de trabajo inteligentes**, **chatbots** y **agentes conversacionales** impulsados por inteligencia artificial.  
-Diseño soluciones de **Automatización de Procesos (BPA)** combinando lógica, creatividad y herramientas **low-code** como **n8n**, junto con bases en **Python** para análisis y control de datos.
+<h3 align="center">Especialista en Automatización Inteligente y Agentes de IA</h3>
 
 ---
 
-### 🚀 Enfoque Profesional: IA Aplicada, n8n y Python
+### 🌐 Sobre mí
 
-* 🧠 **Core Skill:** Diseño y orquestación de flujos automatizados con **n8n**, conectando servicios, APIs y bases de datos para optimizar procesos.  
-* 💬 **IA Conversacional:** Creación y gestión de **Agentes de IA Generativa** con modelos LLM (OpenAI, Gemini) mediante estrategias de **Prompt Engineering**.  
-* ⚙️ **Base Técnica:** Conocimientos en **Python** orientados al procesamiento de datos y apoyo en tareas de automatización e inteligencia artificial.  
-* 🌱 **Aprendizaje continuo:** En constante actualización sobre herramientas de IA y automatización no-code para ampliar la integración en entornos educativos y tecnológicos.
+- 🤖 Enfocado en la **automatización inteligente** con herramientas **Low-Code/No-Code**, principalmente **n8n**.  
+- 💡 Desarrollando proyectos de **IA aplicada**, integrando modelos generativos como **OpenAI** y **Gemini**.  
+- 🧠 Con base técnica en **Python**, orientada al análisis de datos y procesamiento de información.  
+- 🎯 Interesado en la **optimización de procesos**, la innovación tecnológica y la **educación digital**.  
+- 📈 En constante aprendizaje sobre nuevas herramientas de **IA, automatización y flujos inteligentes**.
 
 ---
 
-### 🛠️ Stack Técnico — Automatización e Inteligencia Artificial
+### 💻 Tecnologías y Herramientas
 
-**Lenguajes y herramientas principales:**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,n8n,github,vscode&theme=dark" height="40"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,n8n,github,vscode,mysql,linux&theme=dark" height="45" />
 </p>
 
-**Tecnologías de Inteligencia Artificial:**
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/IA%20Generativa-4285F4?style=flat&logo=google&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Prompt%20Engineering-F59E0B?style=flat&logo=openai&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Chatbots%20%26%20Agentes%20Conversacionales-10B981?style=flat&logo=wechat&logoColor=white&labelColor=0D1117" />
@@ -34,7 +28,8 @@ Diseño soluciones de **Automatización de Procesos (BPA)** combinando lógica, 
 
 ---
 
-### 🧾 Certificaciones Relevantes
+### 🎓 Certificaciones
+
 | Certificación | Institución | Año |
 |:--|:--|:--:|
 | **Introducción a la IA Generativa** | Google Cloud Skills Boost | 2025 |
@@ -43,24 +38,19 @@ Diseño soluciones de **Automatización de Procesos (BPA)** combinando lógica, 
 
 ---
 
-### 🌐 Conecta conmigo
+### 📬 Cómo contactarme
 
-📧 [jeztorres19@gmail.com](mailto:jeztorres19@gmail.com)  
-<a href="https://www.linkedin.com/in/jezrael-jared-g%C3%B3mez-torres-38a9b932b">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/Jeztorres">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/>
-</a>
+<p align="center">
+  📧 <a href="mailto:jeztorres19@gmail.com">jeztorres19@gmail.com</a>  
+</p>
 
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jezrael-jared-g%C3%B3mez-torres-38a9b932b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Jeztorres">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" />
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/jezrael-jared-g%C3%B3mez-torres-38a9b932b">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/Jeztorres">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/>
-</a>
-
-</div>
 
