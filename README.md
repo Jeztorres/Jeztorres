@@ -1,64 +1,56 @@
 <div align="center">
-  
-# JezraelGomez / README.md
 
-## ¡Hola 👋, Soy Jezrael Gómez!
+# 👋 ¡Hola, soy Jezrael Gómez!
 
-### 🎯 Especialista en Orquestación Low-Code y Agentes de IA
+### 🤖 Especialista en Automatización Inteligente y Agentes de IA
 
-Enfocado en el diseño y despliegue de soluciones de **Automatización de Procesos (BPA)**. Utilizo plataformas Low-Code para crear flujos de trabajo inteligentes, chatbots y agentes conversacionales robustos y escalables.
-
----
-
-### 🚀 Foco Central: n8n, Automatización e Inteligencia Artificial
-
-* 🔭 **Core Skill:** Orquestación de flujos de trabajo en **n8n** para conectar servicios (APIs, SaaS, bases de datos) y automatizar tareas de negocio.
-* 💡 **Especialización en IA:** Construcción y gestión de **Chatbots y Agentes de IA Generativa** utilizando modelos LLM (OpenAI/Gemini) y estrategias avanzadas de Prompt Engineering.
-* 📚 **Habilidad de Soporte:** Lógica de programación básica en JavaScript para la creación de nodos personalizados dentro del ecosistema n8n.
+Apasionado por la creación de **flujos de trabajo inteligentes**, **chatbots** y **agentes conversacionales** basados en inteligencia artificial.  
+Diseño soluciones integrales de **Automatización de Procesos (BPA)** combinando lógica, creatividad y plataformas **low-code** como **n8n**.
 
 ---
 
-### 🛠️ Stack Técnico (Automatización e IA)
+### 🚀 Enfoque Profesional: n8n, IA Generativa y Orquestación de Flujos
 
-**Plataformas y Lógica Central:**
+* 🧠 **Core Skill:** Orquestación de procesos con **n8n**, conectando APIs, servicios SaaS y bases de datos para crear flujos automatizados escalables.  
+* 💬 **IA Conversacional:** Diseño y gestión de **Agentes de IA Generativa y Chatbots**, integrando modelos LLM (OpenAI, Gemini) mediante estrategias de **Prompt Engineering**.  
+* ⚙️ **Soporte Técnico:** Conocimientos en **JavaScript básico** para personalización de nodos, lógica condicional y manejo de datos dentro del ecosistema **n8n**.
+
+---
+
+### 🛠️ Stack Técnico — Automatización e Inteligencia Artificial
+
+**Plataformas principales:**
 <p>
   <img src="https://skillicons.dev/icons?i=n8n,vercel,github,vscode,js,ts&theme=dark" height="40"/>
 </p>
 
 **Tecnologías de Inteligencia Artificial:**
 <p>
-  <img src="https://img.shields.io/badge/AI%20Generativa-4285F4?style=flat&logo=google&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/IA%20Generativa-4285F4?style=flat&logo=google&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Prompt%20Engineering-F59E0B?style=flat&logo=openai&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Chatbots%20%26%20Agentes%20Conversacionales-10B981?style=flat&logo=wechat&logoColor=white&labelColor=0D1117" />
 </p>
 
 ---
 
-### 📂 Proyectos Clave (100% Automatización)
-
-Mi portafolio se centra en la aplicación práctica de flujos de trabajo inteligentes y automatizados.
-
-| Proyecto | Foco de Automatización |
-|:---:|:---:|
-| **Agente de Triage de Soporte** | Flujo de **n8n** que clasifica, resume y enruta automáticamente las consultas entrantes utilizando un LLM. |
-| **Chatbot de Soporte (LangChain)** | Desarrollo de un agente conversacional para responder preguntas específicas, orquestado a través de **n8n** (o herramienta similar). |
-| **Node Personalizado n8n** | Creación de una extensión de n8n en JavaScript para interactuar con un servicio API específico. |
-
-[🔗 **Explora mis Flujos y Repositorios en GitHub**](https://github.com/Jeztorres?tab=repositories)
+### 🧾 Certificaciones Relevantes
+| Certificación | Institución | Año |
+|:--|:--|:--:|
+| **Introducción a la IA Generativa** | Google Cloud Skills Boost | 2025 |
+| **Artificial Intelligence Fundamentals** | IBM | 2025 |
+| **AWS Academy Cloud Foundations** | Amazon Web Services | 2025 |
 
 ---
 
 ### 🌐 Conecta conmigo
 
-* 📬 **Correo electrónico:** [jeztorres19@gmail.com](mailto:jeztorres19@gmail.com)
-* <a href="https://www.linkedin.com/in/jezrael-jared-g%C3%B3mez-torres-38a9b932b">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
-    </a>
-    <a href="https://github.com/Jeztorres">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/>
-    </a>
+📧 [jeztorres19@gmail.com](mailto:jeztorres19@gmail.com)  
+<a href="https://www.linkedin.com/in/jezrael-jared-g%C3%B3mez-torres-38a9b932b">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/Jeztorres">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/>
+</a>
 
----
-<br>
-🌟 **"La inteligencia se automatiza. Yo construyo el flujo."**
-<br>
 </div>
+
