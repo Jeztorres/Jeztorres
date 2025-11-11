@@ -16,8 +16,8 @@
 
 ### 💻 Tecnologías y Herramientas
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,n8n,github,vscode,mysql,linux&theme=dark" height="45" />
+<p align="center" style="margin-bottom: 0;">
+  <img src="https://skillicons.dev/icons?i=python,github,vscode,mysql,linux&theme=dark" height="45" style="margin: 0; padding: 0;" />
 </p>
 
 <p align="center">
@@ -52,5 +52,9 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" />
   </a>
 </p>
+
+---
+
+<h4 align="center">✨ "Automatizar es pensar en el futuro; crear IA es hacerlo posible." ✨</h4>
 
 
