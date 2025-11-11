@@ -1,43 +1,47 @@
+<div align="center">
+  
 # JezraelGomez / README.md
 
 ## ¡Hola 👋, Soy Jezrael Gómez!
 
-### 🤖 Ingeniero en Automatización y Desarrollador de Soluciones de IA
+### ⚙️ Especialista en Automatización Low-Code y Orquestación de IA
 
-Ingeniero en TICs enfocado en la **Automatización Inteligente** de procesos de negocio (BPA) mediante la orquestación de flujos Low-Code y la implementación de Agentes de Inteligencia Artificial Generativa.
-
----
-
-### 🚀 Foco Actual y Herramientas Core
-
-* 🔭 **Actualmente trabajando en:** Diseño y despliegue de flujos en **n8n** integrados con modelos LLM (OpenAI/Gemini) para crear Chatbots y Agentes especializados (RAG y LangChain).
-* 💡 **Dominio en automatización:** **n8n** (Orquestación de APIs), **Python** (Scripts de IA y Back-End), **MySQL** (Persistencia de datos).
-* 📚 **Profundizando en:** Arquitectura de Agentes con **LangChain** y la puesta en producción de modelos de Machine Learning (ML) con **Scikit-learn**.
+Ingeniero en TICs enfocado en la **Automatización Inteligente** de procesos de negocio (BPA) mediante el diseño de flujos de trabajo **Low-Code/No-Code** y la implementación de soluciones de **Inteligencia Artificial Generativa** (Chatbots y Agentes).
 
 ---
 
-### 🛠️ Stack Técnico (Orquestación e IA)
+### 🚀 Foco Central y Herramientas Core
 
-**Lenguajes y Core:**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,mysql,c,html,css&theme=dark" height="40"/>
+* 🔭 **Actualmente trabajando en:** Diseño y despliegue de flujos en **n8n** (Orquestación de APIs y lógica de negocio) y desarrollo de Agentes conversacionales con LLMs (OpenAI/Gemini).
+* 💡 **Dominio en Integración:** **n8n** (Automatización de procesos), **JavaScript/TypeScript** (Lógica de flujos y nodos personalizados), **MySQL** (Conexión y gestión de datos).
+* 📚 **Profundizando en:** Estrategias avanzadas de **Prompt Engineering**, arquitecturas de **RAG** (Generación Aumentada por Recuperación) y despliegue de soluciones LCNC en la nube (Vercel).
+
+---
+
+### 🛠️ Stack Técnico (Automatización e IA Generativa)
+
+**Lenguajes y Lógica Core:**
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,mysql&theme=dark" height="40"/>
 </p>
 
-**Plataformas y Frameworks (AI & Automation):**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=n8n,vercel,jupyter,github&theme=dark" height="40"/>
-  <img src="https://img.shields.io/badge/LangChain-059669?style=flat&logo=openai&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white&labelColor=0D1117" />
+**Plataformas y Frameworks (Foco Principal):**
+<p>
+  <img src="https://skillicons.dev/icons?i=n8n,vercel,github,vscode&theme=40"/>
+  <img src="https://img.shields.io/badge/AI%20Generativa-4285F4?style=flat&logo=google&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-F59E0B?style=flat&logo=openai&logoColor=white&labelColor=0D1117" />
 </p>
 
 ---
 
 ### 📂 Proyectos Destacados
 
-Mi portafolio se centra en llevar la IA de la teoría a la acción mediante la orquestación de flujos automatizados.
+Mi portafolio demuestra la capacidad de integrar sistemas dispares y añadir lógica inteligente a los procesos de negocio utilizando plataformas LCNC.
 
-* [Ver Repositorio] **Agente de Triage de Soporte:** Flujo de n8n que utiliza un LLM para clasificar, resumir y priorizar tickets de soporte de forma automática.
-* [Ver Repositorio] **API de Clasificación ML (Flask):** Microservicio en Python/Scikit-learn con una API REST lista para ser consumida por el nodo HTTP de n8n.
+| Proyecto | Tecnologías Clave |
+|:---:|:---:|
+| **Agente de Triage de Soporte LCNC** | **n8n, LLMs, Webhooks** |
+| **Node Personalizado de n8n** | **JavaScript, TypeScript, n8n SDK** |
 
 [🔗 **Explora mis Repositorios Completos en GitHub**](https://github.com/Jeztorres?tab=repositories)
 
@@ -54,10 +58,7 @@ Mi portafolio se centra en llevar la IA de la teoría a la acción mediante la o
     </a>
 
 ---
-
-<div align="center">
-    
-  **<span style="color:#059669;">🌟 "Orquestando la eficiencia: Llevando la Inteligencia Artificial desde el modelo a la acción automatizada."</span>**
-    
-  <img src="https://komarev.com/ghpvc/?username=Jeztorres&style=flat&color=2563EB&labelColor=0D1117">
+<br>
+🌟 **"La eficiencia es la automatización de la inteligencia."**
+<br>
 </div>
