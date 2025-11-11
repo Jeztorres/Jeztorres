@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=900&height=50&lines=%F0%9F%92%BB+Jezrael+G%C3%B3mez+%7C+Ingeniero+en+TICs;%F0%9F%A7%AD+Especialista+en+Fundamentos+de+Inteligencia+Artificial;%F0%9F%9A%80+Desarrollo+de+Soluciones+de+Software+y+ML" alt="Banner Formal" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=1000&color=059669&center=true&vCenter=true&width=900&height=50&lines=%F0%9F%92%BB+Jezrael+G%C3%B3mez+%7C+Automation+Engineer;%F0%9F%A7%AD+AI+Solutions+Developer+%7C+Chatbots+%26+n8n;%E2%9A%9B%EF%B8%8F+Ingeniero+en+Integraci%C3%B3n+y+Agentes+Inteligentes" alt="Banner Formal" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/UBICACI%C3%93N%3A%20HIDALGO%2C%20M%C3%89XICO-2563EB?style=flat&logo=map&logoColor=FFFFFF&labelColor=0D1117" alt="Formación" />
-  <img src="https://img.shields.io/badge/ROL%3A%20INGENIERO%20EN%20TICS-F59E0B?style=flat&logo=devpost&logoColor=FFFFFF&labelColor=0D1117" alt="Rol" />
+  <img src="https://img.shields.io/badge/ROL%3A%20AI%20SOLUTIONS%20DEVELOPER%2FAUTOMATION-F59E0B?style=flat&logo=devpost&logoColor=FFFFFF&labelColor=0D1117" alt="Rol" />
 </p>
 
 ---
@@ -15,19 +15,19 @@
 <tr>
 <td width="50%">
 
-### 👨‍💻 **[<span style="color:#2563EB;">Resumen Ejecutivo</span>]**
+### 👨‍💻 **[<span style="color:#059669;">Especialista en Automatización Inteligente</span>]**
 
 * **Título:** Ingeniero en Tecnologías de la Información (9° Semestre).
-* **Enfoque:** Desarrollador y analista con experiencia en TICs, en transición hacia la especialización en **Inteligencia Artificial** y Python.
-* **Objetivo:** Aplicar la lógica de programación para construir soluciones de software que integren tecnologías inteligentes y escalables.
+* **Enfoque:** Desarrollador orientado a la integración de sistemas y procesos de negocio mediante herramientas **Low-Code/No-Code (LCNC)** y la orquestación de **Inteligencia Artificial Generativa.**
+* **Objetivo:** Diseñar y desplegar soluciones de automatización escalables (RPA, ETL) centradas en el desarrollo y operación de **Chatbots y Agentes de IA** utilizando n8n y Python.
 
 </td>
 <td width="50%">
 
-### 💡 **[<span style="color:#059669;">Visión y Metodología</span>]**
-> *"Mi formación como Ingeniero en TICs me proporciona una visión de sistemas robustos. Combino la teoría (algoritmos, estructuras de datos) con la práctica en **Python** para crear código limpio y modelos eficientes, siempre enfocado en el aprendizaje continuo."*
+### 💡 **[<span style="color:#2563EB;">Stack y Metodología Core</span>]**
+> *"Mi experiencia en TICs me permite construir flujos de trabajo robustos y optimizados. Fusiono la eficiencia del desarrollo **Low-Code (n8n)** con la capacidad analítica de **Python** para crear integraciones que no solo automatizan, sino que también toman decisiones inteligentes."*
 
-**Foco Actual:** Consolidar el stack **Python/Pandas/Scikit-learn** para proyectos de Machine Learning.
+**Foco Actual:** Consolidar habilidades en la orquestación de LLMs (como OpenAI/Gemini) e infraestructura de agentes (LangChain, CrewAI) en flujos de n8n.
 
 </td>
 </tr>
@@ -35,9 +35,18 @@
 
 ---
 
-## 🏆 **[<span style="color:#2563EB;">ACREDITACIONES Y CERTIFICADOS CLAVE</span>]**
+## 🏆 **[<span style="color:#059669;">COMPETENCIAS CLAVE Y ACREDITACIONES</span>]**
 
-La siguiente lista detalla mis certificaciones técnicas más relevantes.
+### 🧠 **Especialización en Orquestación de IA (n8n & Python)**
+
+| **Área Clave** | **Descripción de Habilidad** |
+|:---|:---|
+| **Orquestación de Flujos** | Dominio de la plataforma **n8n** para la integración de APIs, bases de datos y servicios Cloud. Experiencia en el diseño de flujos complejos, manejo de errores y Webhooks. |
+| **Desarrollo de Agentes y Chatbots** | Creación de flujos de conversación inteligentes utilizando modelos LLM, Prompt Engineering avanzado y frameworks como **LangChain** para dotar a los agentes de memoria y herramientas. |
+| **AI Generativa & NLP** | Implementación de soluciones de RAG (Retrieval-Augmented Generation), clasificación de texto, summarization, y extracción de información. |
+| **Back-End de Automatización** | Desarrollo de nodos personalizados para n8n en JavaScript/TypeScript y scripts de automatización en **Python** (manejo de datos con Pandas/Numpy). |
+
+<br>
 
 <details>
   <summary>
@@ -49,100 +58,81 @@ La siguiente lista detalla mis certificaciones técnicas más relevantes.
   <ul>
     <li>**Título:** IBM Artificial Intelligence Fundamentals.</li>
     <li>**Emisor:** IBM.</li>
-    <li>**Habilidades Validadas:** Conceptos de AI, Generative AI, Ética de IA y uso de herramientas de Prompt Engineering.</li>
+    <li>**Habilidades Validadas:** Conceptos de AI, Generative AI, Ética de IA y uso de herramientas de **Prompt Engineering.**</li>
     <li>**Enlace de Verificación:** [Ver Credencial](https://lnkd.in/eH6d7yHz)</li>
   </ul>
 </details>
 
 <details>
   <summary>
-    <img src="https://img.shields.io/badge/PR%C3%93XIMO%20CERTIFICADO-PENDIENTE-0D1117?style=for-the-badge&logo=coursera&logoColor=F59E0B&labelColor=0D1117&color=404040" alt="Placeholder para próximo certificado" />
+    <img src="https://img.shields.io/badge/PR%C3%93XIMO%20CERTIFICADO-EN%20PROGRESO-0D1117?style=for-the-badge&logo=n8n&logoColor=F59E0B&labelColor=0D1117&color=404040" alt="Placeholder para próximo certificado" />
   </summary>
   <br>
   <ul>
-    <li>**Título:** Pendiente de registrar.</li>
-    <li>**Emisor:** Pendiente de registrar.</li>
-    <li>**Habilidades Validadas:** Pendiente de registrar.</li>
-    <li>**Enlace de Verificación:** Pendiente de registrar.</li>
+    <li>**Título:** n8n Workflow Specialist / Coursera ML Specialization.</li>
+    <li>**Emisor:** (Específicar)</li>
+    <li>**Foco:** Refuerzo de habilidades en orquestación de flujos e implementación de modelos de ML.</li>
   </ul>
 </details>
 
 ---
 
-## 🧠 **ENFOQUE TÉCNICO: INTELIGENCIA ARTIFICIAL Y DATA**
-
-### 💡 **[<span style="color:#059669;">Compromiso y Crecimiento</span>]**
-
-> **Actualmente me encuentro en la fase inicial de adquisición de estas habilidades clave, construyendo una base sólida desde cero.** Mi compromiso es absoluto; estoy siguiendo un plan estructurado y estoy dispuesto a invertir el tiempo necesario para dominar cada fase y convertirme en un profesional competente en el campo de la Inteligencia Artificial.
-
-### 📚 **[<span style="color:#2563EB;">Estrategia de Aprendizaje Funcional</span>]**
-
-| 🚀 **Fase de Estudio** | 🎯 **Objetivo Clave** | ⚙️ **Herramientas/Habilidades Clave** |
-|:----------------------|:------------------------------------|:--------------------------------------|
-| **Fundamentos** | Dominio de la lógica y estructuras de datos. | Python POO, Algoritmos, Matemáticas para ML. |
-| **Data Science** | Limpieza, preprocesamiento y Análisis Exploratorio (EDA). | Pandas, NumPy, Matplotlib/Seaborn. |
-| **Machine Learning** | Implementación y evaluación de modelos supervisados (clasificación/regresión). | Scikit-learn, Evaluación de métricas (Accuracy, F1, Recall). |
-| **Especialización** | Profundizar en redes neuronales y áreas específicas (CV/NLP). | TensorFlow, Keras, Open CV (Próximamente). |
-
-<br>
-
 ## 🛠️ **STACK TÉCNICO Y HERRAMIENTAS**
 
 <div align="center">
-  
-### **[<span style="color:#2563EB;">Lenguajes y Core Tech</span>]**
+    
+### **[<span style="color:#2563EB;">Automatización e Integración (Core)</span>]**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,javascript,mysql&theme=dark" height="50"/>
+  <img src="https://skillicons.dev/icons?i=n8n,vercel,ts,js,python,mysql&theme=dark" height="50"/>
 </p>
 
-### **[<span style="color:#2563EB;">Herramientas de Desarrollo y Data Science</span>]**
+### **[<span style="color:#2563EB;">AI / Machine Learning (Soporte)</span>]**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,linux&theme=dark" height="50"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-4285F4?style=flat&logo=google&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/LLM%20Orquestation-F59E0B?style=flat&logo=langchain&logoColor=white&labelColor=0D1117" />
+  <img src="https://skillicons.dev/icons?i=jupyter,pandas,numpy,scikitlearn&theme=dark" height="50"/>
 </p>
 
-### **[<span style="color:#2563EB;">Áreas de Interés Avanzado</span>]**
+### **[<span style="color:#2563EB;">Herramientas y Control de Versiones</span>]**
 <p>
-  <img src="https://img.shields.io/badge/Computer%20Vision-6366F1?style=flat&logo=opencv&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/NLP%20(Procesamiento%20Lenguaje%20Natural)-10B981?style=flat&logo=huggingface&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Cloud%20Computing%20(AWS%2FAzure)-F59E0B?style=flat&logo=amazonaws&logoColor=white&labelColor=0D1117" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" height="50"/>
 </p>
 </div>
 
 ---
 
-## 📂 **[<span style="color:#059669;">PROYECTOS Y REPOSITORIOS</span>]**
+## 📂 **[<span style="color:#059669;">PROYECTOS DESTACADOS</span>]**
+
+> **[<span style="color:#2563EB;">Foco de Proyectos:</span>]** Mi portafolio demuestra la capacidad de llevar modelos de ML a producción e integrarlos en flujos de trabajo automatizados. Los siguientes gráficos reflejan mis contribuciones más activas.
+
+| **Proyecto** | **Tecnologías Clave** | **Impacto/Objetivo** |
+|:---:|:---:|:---|
+| **Agente de Soporte n8n** | **n8n, LangChain, OpenAI, Python** | Flujo de trabajo automatizado para clasificar, resumir y generar respuestas para tickets de soporte, reduciendo el tiempo de respuesta inicial. |
+| **API de Clasificación ML** | Python, Flask, Scikit-learn, Heroku | API RESTful que pone un modelo de clasificación en producción, listo para ser consumido por un nodo HTTP de n8n. |
+| **ETL con n8n y DB** | n8n, MySQL, Pandas | Orquestación de un flujo de Extracción, Transformación y Carga de datos programado (cron) desde una fuente externa a una base de datos interna. |
 
 <div align="center">
-  
-  > **[<span style="color:#2563EB;">Explora mi trabajo:</span>]** Los siguientes gráficos reflejan mis contribuciones más activas y los lenguajes predominantes en mis proyectos.
-  
-  <br>
-  
-  <a href="https://github.com/Jeztorres?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/VER%20TODOS%20MIS%20REPOSITORIOS-2563EB?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Botón para ver todos los repositorios" />
-  </a>
-  
-  <br><br>
-
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jeztorres&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=059669&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jeztorres&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=059669&icon_color=2563EB&text_color=C9D1D9"/>
-
-  <br>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeztorres&theme=tokyonight&hide_border=true&background=0D1117&stroke=059669&ring=2563EB&fire=F59E0B&currStreakLabel=FFFFFF"/>
-
+    <br>
+    <a href="https://github.com/Jeztorres?tab=repositories" target="_blank">
+      <img src="https://img.shields.io/badge/VER%20REPOSITORIOS%20(Code%20&%20Flujos%20n8n)-059669?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Botón para ver todos los repositorios" />
+    </a>
+    <br><br>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jeztorres&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=059669&text_color=C9D1D9"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jeztorres&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=059669&icon_color=2563EB&text_color=C9D1D9"/>
+    <br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeztorres&theme=tokyonight&hide_border=true&background=0D1117&stroke=059669&ring=2563EB&fire=F59E0B&currStreakLabel=FFFFFF"/>
 </div>
 
 ---
 
 ## 🤝 **[<span style="color:#2563EB;">HABILIDADES INTERPERSONALES (SOFT SKILLS)</span>]**
 
-| **Habilidad** | **Relevancia para el Rol** |
+| **Habilidad** | **Relevancia para el Rol de Automatización/AI** |
 |:---:|:---:|
-| 💬 **Comunicación Técnica** | Capacidad para articular el estado y los resultados de un modelo de IA a diversas partes. |
-| 🧩 **Pensamiento Crítico** | Esencial para la validación de datos, selección de modelos y solución de fallos algorítmicos. |
-| 🧑‍🤝‍🧑 **Trabajo Colaborativo** | Experiencia en entornos de control de versiones y metodologías ágiles (enfoque académico). |
-| 📈 **Aprendizaje Continuo** | Adaptabilidad a nuevas librerías, marcos de trabajo y metodologías en el campo de la IA. |
+| 💬 **Comunicación Técnica** | Capacidad para mapear procesos de negocio a flujos de automatización LCNC y comunicar requerimientos de APIs/AI. |
+| 🧩 **Pensamiento de Sistemas** | Esencial para diseñar arquitecturas de integración complejas y asegurar el correcto flujo de datos entre múltiples servicios. |
+| 🧑‍🤝‍🧑 **Trabajo Colaborativo** | Experiencia en control de versiones (Git) y coordinación con equipos de Front-end o Negocio para implementar integraciones. |
+| 📈 **Aprendizaje Continuo** | Adaptabilidad a las rápidas evoluciones en el ecosistema de LLMs y nuevas integraciones de n8n. |
 
 ---
 
@@ -163,8 +153,8 @@ La siguiente lista detalla mis certificaciones técnicas más relevantes.
 ---
 
 <div align="center">
-  
-  **<span style="color:#2563EB;">🌟 "El puente entre la Ingeniería y la Inteligencia Artificial se construye con perseverancia y código."</span>**
-  
-  <img src="https://komarev.com/ghpvc/?username=Jeztorres&style=flat&color=059669&labelColor=0D1117">
+    
+  **<span style="color:#059669;">🌟 "Orquestando la eficiencia: Llevando la Inteligencia Artificial desde el modelo a la acción automatizada."</span>**
+    
+  <img src="https://komarev.com/ghpvc/?username=Jeztorres&style=flat&color=2563EB&labelColor=0D1117">
 </div>
