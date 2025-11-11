@@ -4,46 +4,46 @@
 
 ## ¡Hola 👋, Soy Jezrael Gómez!
 
-### ⚙️ Especialista en Automatización Low-Code y Orquestación de IA
+### 🎯 Especialista en Orquestación Low-Code y Agentes de IA
 
-Ingeniero en TICs enfocado en la **Automatización Inteligente** de procesos de negocio (BPA) mediante el diseño de flujos de trabajo **Low-Code/No-Code** y la implementación de soluciones de **Inteligencia Artificial Generativa** (Chatbots y Agentes).
-
----
-
-### 🚀 Foco Central y Herramientas Core
-
-* 🔭 **Actualmente trabajando en:** Diseño y despliegue de flujos en **n8n** (Orquestación de APIs y lógica de negocio) y desarrollo de Agentes conversacionales con LLMs (OpenAI/Gemini).
-* 💡 **Dominio en Integración:** **n8n** (Automatización de procesos), **JavaScript/TypeScript** (Lógica de flujos y nodos personalizados), **MySQL** (Conexión y gestión de datos).
-* 📚 **Profundizando en:** Estrategias avanzadas de **Prompt Engineering**, arquitecturas de **RAG** (Generación Aumentada por Recuperación) y despliegue de soluciones LCNC en la nube (Vercel).
+Enfocado en el diseño y despliegue de soluciones de **Automatización de Procesos (BPA)**. Utilizo plataformas Low-Code para crear flujos de trabajo inteligentes, chatbots y agentes conversacionales robustos y escalables.
 
 ---
 
-### 🛠️ Stack Técnico (Automatización e IA Generativa)
+### 🚀 Foco Central: n8n, Automatización e Inteligencia Artificial
 
-**Lenguajes y Lógica Core:**
+* 🔭 **Core Skill:** Orquestación de flujos de trabajo en **n8n** para conectar servicios (APIs, SaaS, bases de datos) y automatizar tareas de negocio.
+* 💡 **Especialización en IA:** Construcción y gestión de **Chatbots y Agentes de IA Generativa** utilizando modelos LLM (OpenAI/Gemini) y estrategias avanzadas de Prompt Engineering.
+* 📚 **Habilidad de Soporte:** Lógica de programación básica en JavaScript para la creación de nodos personalizados dentro del ecosistema n8n.
+
+---
+
+### 🛠️ Stack Técnico (Automatización e IA)
+
+**Plataformas y Lógica Central:**
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,mysql&theme=dark" height="40"/>
+  <img src="https://skillicons.dev/icons?i=n8n,vercel,github,vscode,js,ts&theme=dark" height="40"/>
 </p>
 
-**Plataformas y Frameworks (Foco Principal):**
+**Tecnologías de Inteligencia Artificial:**
 <p>
-  <img src="https://skillicons.dev/icons?i=n8n,vercel,github,vscode&theme=40"/>
   <img src="https://img.shields.io/badge/AI%20Generativa-4285F4?style=flat&logo=google&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Prompt%20Engineering-F59E0B?style=flat&logo=openai&logoColor=white&labelColor=0D1117" />
 </p>
 
 ---
 
-### 📂 Proyectos Destacados
+### 📂 Proyectos Clave (100% Automatización)
 
-Mi portafolio demuestra la capacidad de integrar sistemas dispares y añadir lógica inteligente a los procesos de negocio utilizando plataformas LCNC.
+Mi portafolio se centra en la aplicación práctica de flujos de trabajo inteligentes y automatizados.
 
-| Proyecto | Tecnologías Clave |
+| Proyecto | Foco de Automatización |
 |:---:|:---:|
-| **Agente de Triage de Soporte LCNC** | **n8n, LLMs, Webhooks** |
-| **Node Personalizado de n8n** | **JavaScript, TypeScript, n8n SDK** |
+| **Agente de Triage de Soporte** | Flujo de **n8n** que clasifica, resume y enruta automáticamente las consultas entrantes utilizando un LLM. |
+| **Chatbot de Soporte (LangChain)** | Desarrollo de un agente conversacional para responder preguntas específicas, orquestado a través de **n8n** (o herramienta similar). |
+| **Node Personalizado n8n** | Creación de una extensión de n8n en JavaScript para interactuar con un servicio API específico. |
 
-[🔗 **Explora mis Repositorios Completos en GitHub**](https://github.com/Jeztorres?tab=repositories)
+[🔗 **Explora mis Flujos y Repositorios en GitHub**](https://github.com/Jeztorres?tab=repositories)
 
 ---
 
@@ -59,6 +59,6 @@ Mi portafolio demuestra la capacidad de integrar sistemas dispares y añadir ló
 
 ---
 <br>
-🌟 **"La eficiencia es la automatización de la inteligencia."**
+🌟 **"La inteligencia se automatiza. Yo construyo el flujo."**
 <br>
 </div>
